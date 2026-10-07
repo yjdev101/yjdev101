@@ -1,6 +1,6 @@
 ### 윤재중 · Backend Developer (Java / Spring Boot)
 
-현업의 요구사항을 이해하고, 기술적인 설계로 연결하는 백엔드 개발자를 목표로 합니다.
+**문제를 정의하는 데서 시작해, 설계부터 배포까지 직접 해결해 내는 백엔드 개발자**
 
 **Stack** · Java, Spring Boot, Spring Security(JWT, OAuth2), JPA, WebSocket/STOMP, PostgreSQL, MySQL, Docker, AWS EC2, Prometheus/Grafana
 
