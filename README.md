@@ -1,8 +1,8 @@
 ### 윤재중 · Backend Developer (Java / Spring Boot)
 
-**문제를 정의하는 데서 시작해, 설계부터 배포까지 직접 해결해 내는 백엔드 개발자**
+**문제를 정의하고, 테스트와 코드 리뷰로 검증하며 해결하는 백엔드 개발자**
 
-**Backend developer who starts by defining the problem and builds the solution from design to deployment**
+**Backend developer who defines the problem and solves it through testing and code review**
 
 🔗 **Portfolio** · https://yjdev101.github.io
 
